@@ -15,4 +15,17 @@ Objectif : construire une application RH avec CDS, services OData, SAP HANA Clou
 - UI Fiori Elements
 
 
+## Concepts appris
+
+### CAP
+
+CAP (cloud application programme) est un framwork SAP qui sert a devlopper des application metier Cloud pour SAP en utilisant NODE.JS (express.js) ou java (java Spring)
+ 
+### CDS
+CDS (Core data service) sert a decrire des donnes ou service
+
+### OData
+
+Odata sert a exposer les donner en API standard et les integrer pour SAP fiori 
+
 
