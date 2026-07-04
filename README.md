@@ -19,13 +19,12 @@ Objectif : construire une application RH avec CDS, services OData, SAP HANA Clou
 
 ### CAP
 
-CAP (cloud application programme) est un framwork SAP qui sert a devlopper des application metier Cloud pour SAP en utilisant NODE.JS (express.js) ou java (java Spring)
- 
+CAP (Cloud Application Programming Model) est un framework SAP qui sert à développer des applications métier cloud sur SAP BTP. Il permet de créer des services backend avec Node.js ou Java.
+
 ### CDS
-CDS (Core data service) sert a decrire des donnes ou service
+
+CDS (Core Data Services) est le langage utilisé dans CAP pour décrire le modèle métier : entités, champs, relations et services.
 
 ### OData
 
-Odata sert a exposer les donner en API standard et les integrer pour SAP fiori 
-
-
+OData est un protocole standard qui permet d'exposer les données sous forme d'API. Dans SAP, il est souvent utilisé pour connecter un backend CAP à une interface SAP Fiori ou Fiori Elements.
